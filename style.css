@@ -1,0 +1,189 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.colors{
+    background-color: black;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+        color: white;
+        margin-top: 10px;
+    }
+.navbar{
+    text-align: center;
+    font-size: 17px;
+}
+.logo{
+    color: yellow;
+}
+.heading{
+    margin-left: 30px;
+    color: white;
+    margin-top: -20px;
+}
+.icons{
+    margin-left: 1125px;
+    margin-top: -10px;
+}
+.user1{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+#category{
+    height: 45px;
+    width: 160px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#search{
+    height: 45px;
+    width: 600px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.bar{
+    margin-top: 30px;
+    margin-left: 450px;
+}
+.devices{
+    background-color: rgb(206,196,231);
+    margin-top: 30px;
+    height: 500px;
+}
+.image1{
+    margin-left: 700px;
+}
+.aboutus{
+    margin-top: -450px;
+    font-size: 70px;
+    margin-left: 90px;
+}
+.description{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button1{
+    margin-top: 20px;
+}
+.order{
+    margin-left: 200px;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+.explore{
+    margin-left: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.image2 img{
+    width: 1400px;
+}
+.deals{
+    display: flex;
+    margin-left: 80px;
+    gap: 90px;
+}
+.deal{
+    font-size: 30px;
+}
+.offer{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#button2{
+    height: 30px;
+    background-color: black;
+    color: yellow;
+}
+.headsup img{
+    width: 650px;
+}
+.cam img{
+    width: 650px;
+    height: 365px;
+  }
+  .classic{
+    display: flex;
+    gap: 60px;
+    margin-left: 30px;
+  }
+  .playstation{
+    background-color: rgb(206,196,231);
+    width: 1350px;
+    margin-left: 30px;
+    height: 270px;
+  }
+  .smater{
+    margin-left: 90px;
+    padding: 30px;
+    font-size: 55px;
+  }
+  .design{
+    margin-left: 150px;
+    font-size: 18px;
+  }
+  .person1 img{
+    margin-left: 1000px;
+    margin-top: -600px;
+    width: 300px;
+    height: 300px;
+  }
+.atest{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.testimonials{
+    margin-left: 90px;
+    font-size: 25px;
+   font-style: normal;
+    margin-top: 30px;
+}
+.smart{
+    font-size: 29px;
+}
+.spans{
+    color: yellow;
+}
+.subscribe{
+    display: flex;
+    gap: 70px;
+    margin-left: 300px;
+    font-size: 20px;
+    font-style: normal;
+}
+#mailaddress{
+    border-radius: 5px;
+    width: 200px;
+    background-color: yellow;
+}
+.footer{
+    display: flex;
+    gap: 140px;
+    background-color: black;
+    color: white;
+    font-size: 19px;
+    height: 180px;
+    border: solid black;
+}
+.items img{
+    border-radius: 10px;
+    margin-bottom: 1%;
+    border: solid bisque;
+}
+#products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
